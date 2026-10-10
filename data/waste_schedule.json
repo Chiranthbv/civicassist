@@ -1,0 +1,112 @@
+[
+  {
+    "zone": "Zone A",
+    "area": "Downtown & Civic Center",
+    "waste_type": "General Household Garbage, Dry Recyclables, Food Compost",
+    "pickup_days": ["Monday", "Thursday"],
+    "pickup_time": "07:00 AM - 11:00 AM",
+    "special_instructions": "Place rolling bins curbside by 6:30 AM with bin handle facing the street. Flatten cardboard boxes and place inside the blue recycling container. Electronic waste is prohibited in curbside bins.",
+    "contact_information": "Greenfield Waste Management Dept, Phone: (555) 019-4821, Email: waste-zonea@greenfield.gov",
+    "last_updated": "2026-08-15"
+  },
+  {
+    "zone": "Zone B",
+    "area": "Riverside & Elm Park District",
+    "waste_type": "General Trash, Glass & Plastic Recyclables, Yard Waste",
+    "pickup_days": ["Tuesday", "Friday"],
+    "pickup_time": "07:30 AM - 11:30 AM",
+    "special_instructions": "Yard clippings must be bagged in brown biodegradable paper bags or tied in bundles under 4 feet length. Glass containers must be rinsed before disposal.",
+    "contact_information": "Greenfield Waste Management Dept, Phone: (555) 019-4822, Email: waste-zoneb@greenfield.gov",
+    "last_updated": "2026-08-20"
+  },
+  {
+    "zone": "Zone C",
+    "area": "Highland Hills & Northridge Residential",
+    "waste_type": "General Waste, Mixed Recyclables, Green Organic Waste",
+    "pickup_days": ["Wednesday", "Saturday"],
+    "pickup_time": "08:00 AM - 12:00 PM",
+    "special_instructions": "Lids must remain fully closed to prevent wildlife tampering. Severe winter snow routes may push collection to afternoon hours.",
+    "contact_information": "Greenfield Waste Management Dept, Phone: (555) 019-4823, Email: waste-zonec@greenfield.gov",
+    "last_updated": "2026-08-22"
+  },
+  {
+    "zone": "Zone D",
+    "area": "Westside Commercial & Mixed Plaza",
+    "waste_type": "Commercial Waste, Cardboard Bundles, General Refuse",
+    "pickup_days": ["Monday", "Wednesday", "Friday"],
+    "pickup_time": "06:00 AM - 09:30 AM",
+    "special_instructions": "Commercial dumpsters must have unobstructed rear alley access by 5:30 AM. Grease and hazardous chemicals require specialized commercial hazardous pickup.",
+    "contact_information": "Greenfield Commercial Sanitation Bureau, Phone: (555) 019-4824, Email: commercial-waste@greenfield.gov",
+    "last_updated": "2026-08-10"
+  },
+  {
+    "zone": "Zone E",
+    "area": "University Quarter & Academic Village",
+    "waste_type": "General Garbage, E-Waste Drop-off, Single-Stream Recycling",
+    "pickup_days": ["Tuesday", "Thursday"],
+    "pickup_time": "08:30 AM - 12:30 PM",
+    "special_instructions": "Student move-in/move-out periods in May and August feature free bulk item curbside dumpsters along College Avenue.",
+    "contact_information": "Greenfield Sanitation - Campus Liaison, Phone: (555) 019-4825, Email: waste-univ@greenfield.gov",
+    "last_updated": "2026-08-25"
+  },
+  {
+    "zone": "Zone F",
+    "area": "East Greenfield Industrial Park",
+    "waste_type": "Industrial Non-Hazardous Scrap, Pallets, Solid Refuse",
+    "pickup_days": ["Tuesday", "Friday"],
+    "pickup_time": "05:30 AM - 09:00 AM",
+    "special_instructions": "Industrial manifests required for bulk metal, timber, and non-toxic factory byproducts. Hazardous waste requires EPA Form 8700-12 certification.",
+    "contact_information": "Industrial Waste Division, Phone: (555) 019-4826, Email: ind-sanitation@greenfield.gov",
+    "last_updated": "2026-08-01"
+  },
+  {
+    "zone": "Zone G",
+    "area": "Lakeside Marina & Waterfront Promenade",
+    "waste_type": "Public Litter Cans, Marina Waste, Sorted Recyclables, Compost",
+    "pickup_days": ["Monday", "Wednesday", "Saturday"],
+    "pickup_time": "06:30 AM - 10:30 AM",
+    "special_instructions": "Fish scrap disposal must use refrigerated dumpsters at Pier 4. Marine battery and oil disposal drop-offs located at Marina Maintenance Shed.",
+    "contact_information": "Waterfront Sanitation Office, Phone: (555) 019-4827, Email: waste-waterfront@greenfield.gov",
+    "last_updated": "2026-08-18"
+  },
+  {
+    "zone": "Zone H",
+    "area": "Meadowlands Agricultural & Suburban Border",
+    "waste_type": "Residential Refuse, Agricultural Organic Scrap, Recyclables",
+    "pickup_days": ["Wednesday"],
+    "pickup_time": "07:00 AM - 01:00 PM",
+    "special_instructions": "Long-driveway properties must bring containers to the state road access point. Bulk manure or organic farm waste must be composted on-site.",
+    "contact_information": "Rural Sanitation Services, Phone: (555) 019-4828, Email: waste-rural@greenfield.gov",
+    "last_updated": "2026-08-05"
+  },
+  {
+    "zone": "Zone I",
+    "area": "Sunnyvale Heights & South Ridge",
+    "waste_type": "Household Trash, Co-mingled Recycling, Yard Trimmings",
+    "pickup_days": ["Thursday"],
+    "pickup_time": "08:00 AM - 12:30 PM",
+    "special_instructions": "Bi-weekly yard trimmings collected on alternate Thursdays during Spring and Fall months. Check annual green-bin calendar for exact dates.",
+    "contact_information": "Greenfield Waste Management Dept, Phone: (555) 019-4829, Email: waste-zonei@greenfield.gov",
+    "last_updated": "2026-08-28"
+  },
+  {
+    "zone": "Zone J",
+    "area": "Old Town Heritage District & Cobblestone Quarter",
+    "waste_type": "Compact Waste Bags, Heritage Recyclables",
+    "pickup_days": ["Tuesday", "Saturday"],
+    "pickup_time": "06:00 AM - 08:30 AM",
+    "special_instructions": "Due to narrow cobblestone streets, large rolling bins are prohibited. Residents must use official Greenfield Municipal Corporation blue and green approved bags.",
+    "contact_information": "Heritage District Services, Phone: (555) 019-4830, Email: waste-heritage@greenfield.gov",
+    "last_updated": "2026-08-12"
+  },
+  {
+    "zone": "Zone K",
+    "area": "Greenfield Medical & Science Corridor",
+    "waste_type": "Municipal Solid Waste, Sterile Paper/Plastic Recyclables",
+    "pickup_days": ["Daily (Monday through Sunday)"],
+    "pickup_time": "05:00 AM - 08:00 AM",
+    "special_instructions": "Biohazard and medical sharps are strictly handled by certified biomedical disposal contractors and will NOT be collected in municipal bins.",
+    "contact_information": "Corridor Environmental Services, Phone: (555) 019-4831, Email: waste-med@greenfield.gov",
+    "last_updated": "2026-08-15"
+  }
+]

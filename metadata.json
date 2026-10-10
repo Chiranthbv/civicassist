@@ -1,0 +1,8 @@
+{
+  "name": "CivicAssist — Municipal FAQ & Services AI",
+  "description": "AI-Powered Public Service FAQ Chatbot for Municipal Queries: Waste schedules, permits, local events, and live weather advisories for Greenfield Municipal Corporation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
